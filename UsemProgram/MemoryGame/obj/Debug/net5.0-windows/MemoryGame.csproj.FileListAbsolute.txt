@@ -1,0 +1,44 @@
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame_MarkupCompile.cache
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.exe
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.deps.json
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.runtimeconfig.dev.json
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.dll
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.pdb
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.g.resources
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.dll
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\refint\MemoryGame.dll
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.pdb
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\ref\MemoryGame.dll
+C:\Users\ridva\Desktop\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame_MarkupCompile.lref
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.exe
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.deps.json
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.runtimeconfig.dev.json
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.dll
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\bin\Debug\net5.0-windows\MemoryGame.pdb
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame_MarkupCompile.cache
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame_MarkupCompile.lref
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.g.resources
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.dll
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\refint\MemoryGame.dll
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.pdb
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\ridva\Desktop\WPF projeler\UsemProgram\MemoryGame\obj\Debug\net5.0-windows\ref\MemoryGame.dll
